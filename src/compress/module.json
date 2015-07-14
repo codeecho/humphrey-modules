@@ -1,0 +1,5 @@
+{
+	"packages": ["grunt-contrib-compress"],
+	"goal": "package",
+	"task": "compress"
+}

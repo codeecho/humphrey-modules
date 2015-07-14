@@ -1,0 +1,5 @@
+{
+	"packages": ["grunt-wiredup"],
+	"goal": "build",
+	"task": "wiredup"
+}
