@@ -1,6 +1,6 @@
 {
 	"packages": ["grunt-jade"],
 	"goal": "build",
-	"task": "jade",
+	"tasks": ["jade"],
 	"excludes": ["**/*.jade"]
 }

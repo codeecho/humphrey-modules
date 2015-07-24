@@ -1,5 +1,5 @@
 {
 	"packages": ["grunt-contrib-htmlmin"],
 	"goal": "build",
-	"task": "htmlmin"
+	"tasks": ["htmlmin"]
 }

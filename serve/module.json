@@ -1,0 +1,5 @@
+{
+	"packages": ["grunt-contrib-watch", "grunt-express", "grunt-open"],
+	"goal": "serve",
+	"tasks": ["build", "express", "open", "watch"]
+}
